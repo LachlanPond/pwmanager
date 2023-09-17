@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gtkmm/pwmanager">
+    <file preprocess="xml-stripblanks">pwmanager.ui</file>
+  </gresource>
+</gresources>
